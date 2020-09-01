@@ -10,6 +10,7 @@
         v-for="project in projects"
       />
     </div>
+    <a href="/.auth/login/aad">Login</a>
   </div>
 </template>
 
