@@ -11,6 +11,8 @@
       />
     </div>
     <a href="/.auth/login/aad">Login</a>
+    <a href="/.auth/me">About Me</a>
+    <a href="/.auth/logout">Log out</a>
   </div>
 </template>
 
