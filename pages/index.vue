@@ -10,6 +10,9 @@
         v-for="project in projects"
       />
     </div>
+    <a href="/.auth/login/aad?post_login_redirect_uri=https://flowfunctionsapps.azurewebsites.net/api/LoginRedirect">Login</a>
+    <a href="/.auth/me">About Me</a>
+    <a href="/.auth/logout">Log out</a>
   </div>
 </template>
 
